@@ -1,0 +1,7 @@
+sprint it listof courses
+1.Devops+Aws
+2.Microsoft cloud
+3.python
+4.full stack java
+5.machine learning
+6. .net
