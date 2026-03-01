@@ -5,3 +5,5 @@ sprint it listof courses
 4.full stack java
 5.machine learning
 6. .net
+7.backend
+8.oracle full stack
