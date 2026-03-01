@@ -7,3 +7,4 @@ sprint it listof courses
 6. .net
 7.backend
 8.oracle full stack
+9.SQLdd
