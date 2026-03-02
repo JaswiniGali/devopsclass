@@ -8,3 +8,4 @@ sprint it listof courses
 7.backend
 8.oracle full stack
 9.SQLdd
+10.Devops +AWS
