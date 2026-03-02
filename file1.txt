@@ -6,3 +6,11 @@ sprint it listof courses
 5.machine learning
 6. .net
 7. Full stack
+7.backend
+8.oracle full stack
+9.SQLdd
+10.Devops +AWS
+11.JAVA AND SPRING
+12.Springboot
+13.ML
+14. AI
